@@ -18,7 +18,7 @@ Technologies Used
 Installation Instructions
     1.    Clone the repository:
 
-git clone https://github.com/yourusername/flappy-bird-ai.git
+git clone https://github.com/evertte/flappy-bird-ai.git
 
 
     2.    Move into the project directory:
